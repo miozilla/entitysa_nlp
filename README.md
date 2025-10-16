@@ -1,4 +1,4 @@
-# entitysa_nlp
+# entitysa_nlp 🗣️😕😏
 entitysa_nlp : Natutal Lasnguage API # Entity &amp; Sentiment Analysis # NLP
 
 
