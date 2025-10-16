@@ -7,7 +7,7 @@ entitysa_nlp : Natutal Lasnguage API # Entity &amp; Sentiment Analysis # NLP
 - Create Natural Language API request and calling the API with curl
 - Extract entities & running sentiment analysis on text with the Natural Language API
 - Perform linguistic analysis on text with the Natural Language API
-- Create Natural Language API request in a different language (日本/Japanese)
+- Create Natural Language API request in a different language (日本語/Japanese)
 
 
 ## Entity & Sentiment Analysis with Natural Language API 
